@@ -1,0 +1,2 @@
+d0ac2adfd6db144d4ecb960755ea7388	hackfest_multivdu_vnf/hackfest_multivdu_vnfd.yaml
+bc681c5a4c3cdc09c013df2d2239f3d2	hackfest_multivdu_vnf/icons/osm.png
